@@ -1,0 +1,6 @@
+{
+  "name": "FocusForge",
+  "description": "A modern, clean, high-conversion productivity web app dashboard inspired by Notion and Linear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
